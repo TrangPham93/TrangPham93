@@ -16,7 +16,9 @@ My name is Trang.
 
 🪪🪪 I hold a master degree in finance and currently a student in Hive Helsinki, a coding school.
 I have 5 years of experience as financial controller. 
-During my work, I found myself increasingly interested in data analytics, understanding the data and making data storytelling insightful. I also love to try and experience the alternative solutions to reduce time spent the boring and repetitive tasks.
+During my work, I found myself increasingly interested in data analytics, understanding the data and making data storytelling insightful. I also love to try and experience the alternative solutions to reduce time spent the boring and repetitive tasks.\
+
+🔭 I’m currently working on Python, C & BI tools.
 
 📊📊Some of my projects.
 - [Sales Analysis Project using MySQL and Tableau](https://github.com/TrangPham93/Sales_Analysis_Portfolio_MySQL_Tableau.git)
