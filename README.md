@@ -26,5 +26,5 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [Various projects in C for my school](https://github.com/TrangPham93/Hive_Helsinki.git)
 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TrangPham93)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TrangPham93)](https://git.io/streak-stats)
 
