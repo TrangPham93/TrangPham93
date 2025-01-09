@@ -24,8 +24,8 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [Sales Analysis Project using MySQL and Tableau](https://github.com/TrangPham93/Sales_Analysis_Portfolio_MySQL_Tableau.git)
 - [Data Professional Survey using PowerBI](https://github.com/TrangPham93/Data_Professional_Survey_Power_BI.git)
 - [Multiple Data Analysis Projects](https://github.com/TrangPham93/data_analysis_project.git)
-- [Various projects in C for my school](https://github.com/TrangPham93/Hive_Helsinki.git)
+- [Working-in-progress projects for my school](https://github.com/TrangPham93/Hive_Helsinki.git)
 
-  
+  <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=TrangPham93)](https://git.io/streak-stats)
-
+-->
