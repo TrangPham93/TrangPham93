@@ -23,6 +23,7 @@ During my work, I found myself increasingly interested in data analytics, unders
 📊📊Some of my projects.
 - [Sales Analysis Project using MySQL and Tableau](https://github.com/TrangPham93/Sales_Analysis_Portfolio_MySQL_Tableau.git)
 - [Data Professional Survey using PowerBI](https://github.com/TrangPham93/Data_Professional_Survey_Power_BI.git)
+- [Multiple Data Analysis Project](https://github.com/TrangPham93/data_analysis_project.git)
 - [Various projects in C for my school](https://github.com/TrangPham93/Hive_Helsinki.git)
 
   
