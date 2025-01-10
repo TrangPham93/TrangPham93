@@ -26,7 +26,9 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [Multiple Data Analysis Projects](https://github.com/TrangPham93/data_analysis_project.git)
 - [Working-in-progress projects for my school](https://github.com/TrangPham93/Hive_Helsinki.git)
 
-  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrangPham93&layout=compact&theme=dark) | ![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
+| | |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrangPham93&layout=compact&theme=dark) | ![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
 
 
   <!--
