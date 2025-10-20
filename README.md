@@ -30,7 +30,7 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [so_long](https://github.com/TrangPham93/so_long.git)
 - [push_swap](https://github.com/TrangPham93/push_swap.git)
 - [minishell](https://github.com/TrangPham93/minishell)
-- [cub3d](https://github.com/TrangPham93/Cub3d) 
+- [cub3d](https://github.com/TrangPham93/cub3d) 
 
 #### :bar_chart::bar_chart: GitHub Stats
 
