@@ -27,7 +27,7 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [Fake Store API](https://github.com/TrangPham93/Fake-Store-API)
 
 #### 🐝🐝 HIVE School's projects
-- [so_long]()
+- [so_long](https://github.com/TrangPham93/so_long.git)
 - [push_swap](https://github.com/TrangPham93/push_swap.git)
 - [minishell](https://github.com/TrangPham93/minishell)
 - [cub3d](https://github.com/TrangPham93/Cub3d) 
