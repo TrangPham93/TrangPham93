@@ -32,14 +32,27 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [minishell](https://github.com/TrangPham93/minishell)
 - [cub3d](https://github.com/TrangPham93/cub3d) 
 
-#### :bar_chart::bar_chart: GitHub Stats
+#### 👨‍💻👨‍💻 Languages 
 
-| | |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrangPham93&layout=compact&theme=dark&hide=HTML) | ![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Make](https://img.shields.io/badge/Make-F05032?style=flat&logo=gnu-make) 
+
+#### :bar_chart::bar_chart: GitHub Stats
+![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
 
 
   <!--
+| | |
+| --- | --- |
+| ![Top Langs](### Languages
+
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+) |
+![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
+
+
+  
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93)](https://github.com/TrangPham93/github-readme-stats)
   | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrangPham93&layout=compact&theme=dark) | ![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
 
