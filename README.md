@@ -27,8 +27,10 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [Fake Store API](https://github.com/TrangPham93/Fake-Store-API)
 
 #### 🐝🐝 HIVE School's projects
-- [Individual projects](https://github.com/TrangPham93/Hive_Helsinki.git)
-- Minishell(https://github.com/TrangPham93/minishell_Hive_Helsinki)
+- [so_long]()
+- [push_swap]()
+- [minishell](https://github.com/TrangPham93/minishell)
+- [cub3d](https://github.com/TrangPham93/Cub3d) 
 
 #### :bar_chart::bar_chart: GitHub Stats
 
