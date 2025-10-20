@@ -26,7 +26,7 @@ During my work, I found myself increasingly interested in data analytics, unders
 - [Data Professional Survey using PowerBI](https://github.com/TrangPham93/Data_Professional_Survey_Power_BI.git)
 - [Fake Store API](https://github.com/TrangPham93/Fake-Store-API)
 
-#### 📊📊HIVE School's projects
+#### 🐝🐝 HIVE School's projects
 - [Individual projects](https://github.com/TrangPham93/Hive_Helsinki.git)
 - Minishell(https://github.com/TrangPham93/minishell_Hive_Helsinki)
 
