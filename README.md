@@ -34,7 +34,8 @@ During my work, I found myself increasingly interested in data analytics, unders
 
 #### 👨‍💻👨‍💻 Languages 
 
-![C](https://img.shields.io/badge/C-555555?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Make](https://img.shields.io/badge/Make-F05032?style=flat&logo=gnu-make) 
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Make](https://img.shields.io/badge/Make-F05032?style=flat&logo=gnu-make) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
+
 
 #### :bar_chart::bar_chart: GitHub Stats
 ![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
