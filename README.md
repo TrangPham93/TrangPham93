@@ -19,12 +19,13 @@ I hold a master degree in finance and currently a student in Hive Helsinki, a co
 I have 5 years of experience as financial controller. 
 During my work, I found myself increasingly interested in data analytics, understanding the data and making data storytelling insightful. I also love to try and experience the alternative solutions to reduce time spent the boring and repetitive tasks.
 
-#### 📊📊Data Analysis Projects
+#### 📊📊 Data Analysis Projects
 - [Sales Analysis Project using MySQL and Tableau](https://github.com/TrangPham93/Sales_Analysis_Portfolio_MySQL_Tableau.git)
 - [Data Professional Survey using PowerBI](https://github.com/TrangPham93/Data_Professional_Survey_Power_BI.git)
 - [Fake Store API](https://github.com/TrangPham93/Fake-Store-API)
 
-#### 🐝🐝 [HIVE School's projects](https://github.com/TrangPham93/Hive-school-projects.git)
+#### 🐝🐝 HIVE School's projects
+[➡️ View all projects here](https://github.com/TrangPham93/Hive-school-projects.git)
 
 #### 👨‍💻👨‍💻 Languages 
 
