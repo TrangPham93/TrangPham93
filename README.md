@@ -18,7 +18,7 @@ I like to explore the alternative solutions to automate repetitive tasks and inc
 - [Data Professional Survey using PowerBI](https://github.com/TrangPham93/Data_Professional_Survey_Power_BI.git)
 - [Fake Store API](https://github.com/TrangPham93/Fake-Store-API)
 
-#### 🐝🐝 ... and my most programming-relevant education is HIVE School. ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)  ![Make](https://img.shields.io/badge/Make-F05032?style=flat&logo=gnu-make) ![Make](https://img.shields.io/badge/Make-F05032?style=flat&logo=gnu-make) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+#### 🐝🐝 ... and my most programming-relevant education is HIVE School. ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![Make](https://img.shields.io/badge/Make-F05032?style=flat&logo=gnu-make) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 [➡️ Get to know Hive and view all my projects here](https://github.com/TrangPham93/Hive-school-projects.git)
 
