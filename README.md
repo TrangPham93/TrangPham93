@@ -8,6 +8,7 @@ My name is Trang.
 A swimmie 🧜‍♀️, a jogi 🧘‍♀️, a newbie in crocheting 🧶 and writing kanji is my therapy . 
 
 #### 🛄🛄 ...my working mode
+I'm currently attending Hive Coding School.
 I hold a master degree in finance and worked 5 years as a financial controller. 
 I worked intensively with financial data daily, understood and translated data to insightful and understandable reports. 
 I like to explore the alternative solutions to automate repetitive tasks and increase time to brainstorm other pending problems.
