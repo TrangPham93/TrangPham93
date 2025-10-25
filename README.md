@@ -1,8 +1,7 @@
-## Hi👋
+## Hi👋 I'm Trang.
 
 <!--...me as a human
 -->
-My name is Trang.
 
 #### ♈♈ ...about me
 A swimmie 🧜‍♀️, a jogi 🧘‍♀️, a newbie in crocheting 🧶 and writing kanji is my therapy . 
