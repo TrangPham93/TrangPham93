@@ -5,7 +5,7 @@
 My name is Trang.
 
 #### ♈♈ ...about me
-..
+A swimmie 🧜‍♀️, a jogi 🧘‍♀️, a newbie in crocheting 🧶 and writing kanji is my therapy . 
 
 #### 🛄🛄 ...my working mode
 I hold a master degree in finance and worked 5 years as a financial controller. 
@@ -26,4 +26,4 @@ I like to explore the alternative solutions to automate repetitive tasks and inc
 ![TrangPham93's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrangPham93&show_icons=true&theme=dark) |
 
 #### 📫 ... if you want to reach me, let's click here ⬇️
-[Linkedin](in/trang-pham-84022b62)
+[Linkedin](https://www.linkedin.com/in/trangphamthiha/)
