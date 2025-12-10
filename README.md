@@ -13,6 +13,8 @@ As a financial controller, I've encountered processes that were time-consuming o
 
 My other hobbies are swimming 🧜‍♀️, yoga 🧘‍♀️ and crocheting 🧶.
 
+I speaks Vietnamese, English, Finnish and Japanese.
+
 Feel free to connect me on  ![LinkedIn](https://www.linkedin.com/in/trangphamthiha/)  or explore my project portfolio below!
 
 ## 🐝 Project-based Software Development (Hive School) ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![Make](https://img.shields.io/badge/Make-F05032?style=flat&logo=gnu-make) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
