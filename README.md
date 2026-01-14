@@ -23,6 +23,7 @@ Feel free to connect me on  ![LinkedIn](https://www.linkedin.com/in/trangphamthi
 
 - [push_swap](https://github.com/TrangPham93/push_swap.git)
 - [minishell](https://github.com/TrangPham93/Hive-school-projects.git)
+- [irc_server](https://github.com/TrangPham93/irc_server)
 
 [➡️ Get to know Hive and view all my projects from Hive here](https://github.com/TrangPham93/Hive-school-projects.git)
 
